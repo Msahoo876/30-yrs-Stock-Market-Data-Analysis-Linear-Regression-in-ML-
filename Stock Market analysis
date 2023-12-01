@@ -1,0 +1,15 @@
+30 yrs Stock Market:- Data consists of 30-years of Close prices for various market indexes, commodities, agriculture and US Treasure Bills.Yahoo Finance Python API. 
+Stock market data spanning 30 years can provide a rich source of information for analysis and modeling. If you have a specific task or analysis you'd like to perform on this data, or 
+if you have any questions about how to work with it using Python and libraries like Pandas, NumPy, Seaborn, or Matplotlib, feel free to ask.
+
+Here are a few common tasks you might consider:
+
+Exploratory Data Analysis (EDA): Explore the general characteristics of the data, visualize trends, and identify outliers.
+
+Calculating Returns: Compute daily, weekly, or monthly returns from the stock prices.
+
+Statistical Analysis: Conduct statistical tests or calculate descriptive statistics to better understand the data.
+
+Visualizations: Create various plots such as line charts, candlestick charts, or histograms to visualize different aspects of the stock data.
+
+Modeling: If you're interested in predictive modeling, you can use the data to train machine learning models for stock price prediction.
